@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BriYuDev
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Fullstack Web Dev
 
 <!---
 BriYuDev/BriYuDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
